@@ -62,7 +62,7 @@ By default, Linux will not expose enough permission for Arduino to upload the co
 
 ## Reference board
 
-![Front image](https://raw.githubusercontent.com/jobitjoseph/CH55XDuino/main/docs/simpleCH552Front.jpg)
+![Front image](https://raw.githubusercontent.com/jobitjoseph/CH55XDuino/main/docs/simpleCH552.jpg)
 
 ## Difference to regular Arduino
 
