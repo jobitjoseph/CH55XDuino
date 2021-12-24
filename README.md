@@ -1,4 +1,4 @@
-# Ch55xduino: Small Devices Arduino for ch55x devices
+# Ch55xduino: Arduino Support for ch55x devices
 
 **Getting started on the Ch55x the easy way. Forked from Sduino project, also based on 
 ch554_sdcc project**
@@ -48,11 +48,11 @@ If you want to leave the bootloader, you may send the following bytes at 57600 b
 
 ### Driver for windows
 
-![Zadig image](https://raw.githubusercontent.com/DeqingSun/ch55xduino/ch55xduino/docs/Zadig_bootloader_libusb.png)
+![Zadig image](https://raw.githubusercontent.com/jobitjoseph/CH55XDuino/main/docs/Zadig_bootloader_libusb.png)
 
 [Zadig](https://zadig.akeo.ie/) is the recommended tool to install drivers in Windows. The bootloader (4348,55E0) should be installed with libusb-win32 driver (WinUSB driver may not work on some computer). 
 
-![Zadig CDC image](https://raw.githubusercontent.com/DeqingSun/ch55xduino/ch55xduino/docs/Zadig_CDC.png)
+![Zadig CDC image](https://raw.githubusercontent.com/jobitjoseph/CH55XDuino/main/docs/Zadig_CDC.png)
 
 You can use USB Serial (CDC) driver for the default CDC USB stack (1209,C550). 
 
@@ -64,13 +64,9 @@ By default, Linux will not expose enough permission for Arduino to upload the co
 
 ## Reference board
 
-![Front image](https://raw.githubusercontent.com/DeqingSun/ch55xduino/ch55xduino/docs/simpleCH552Front.jpg)
+![Front image](https://raw.githubusercontent.com/jobitjoseph/CH55XDuino/main/docs/simpleCH552Front.jpg)
 
-![Back image](https://raw.githubusercontent.com/DeqingSun/ch55xduino/ch55xduino/docs/simpleCH552Back.jpg)
-
-There is a small CH552 breakout board design in the "pcb" folder. When fabricated with 1.6mm board thickness, some USB receptacle may be too loose for the PCB. Just add some tape behind the USB connector to increase the thickness.
-
-The button footprint was designed for 6mm buttons, but 5mm one works too.
+![Back image](https://raw.githubusercontent.com/jobitjoseph/CH55XDuino/main/docs/simpleCH552Back.jpg)
 
 ## Difference to regular Arduino
 
