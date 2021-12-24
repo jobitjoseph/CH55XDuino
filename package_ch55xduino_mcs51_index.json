@@ -2,11 +2,11 @@
     "packages": [
         {
             "name": "CH55xDuino",
-            "maintainer": "Deqing Sun",
-            "websiteURL": "https://github.com/DeqingSun/ch55xduino",
+            "maintainer": "Jobit Joseph",
+            "websiteURL": "https://github.com/jobitjoseph/CH55XDuino/",
             "email": "ds@thinkcreate.us ",
             "help": {
-                "online": "https://github.com/DeqingSun/ch55xduino"
+                "online": "https://github.com/jobitjoseph/CH55XDuino/"
             },
             "platforms" : [
                 {
