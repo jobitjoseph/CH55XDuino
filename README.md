@@ -7,8 +7,6 @@ Ch55xduino is an Arduino-like programming API for the CH55X, a family of low-cos
 
 CH551, CH552, CH554, may be the lowest part count system that works with Arduino. The minimal system only requires one chip, 2 decoupling capacitors, and one optional pull-up resistor. These features made it ideal for DIY projects. 
 
-![Script running gif](https://raw.githubusercontent.com/jobitjoseph/CH55XDuino/main/docs/blinkLED.gif)
-
 At this moment the project is still working-in-progress. Support most Arduino functions (Except pulse, shift, tone). Refer to examples in this repo for more info.
 
 ## Installation
