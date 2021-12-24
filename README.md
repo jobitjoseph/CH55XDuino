@@ -64,8 +64,6 @@ By default, Linux will not expose enough permission for Arduino to upload the co
 
 ![Front image](https://raw.githubusercontent.com/jobitjoseph/CH55XDuino/main/docs/simpleCH552Front.jpg)
 
-![Back image](https://raw.githubusercontent.com/jobitjoseph/CH55XDuino/main/docs/simpleCH552Back.jpg)
-
 ## Difference to regular Arduino
 
 ### Pin names:
