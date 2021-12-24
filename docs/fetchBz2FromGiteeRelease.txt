@@ -1,0 +1,10 @@
+var urls = document.getElementsByTagName('a');
+pythonBz2 = "bz2OnGitee = ("
+for (url in urls) {
+    oneURL = urls[url].href;
+    if ( (typeof oneURL === 'string' || oneURL instanceof String) && oneURL.endsWith('.bz2')){
+        pythonBz2 = pythonBz2 + "\""+oneURL+"\","
+    }
+}
+pythonBz2 = pythonBz2 + ")"
+console.log (pythonBz2);
