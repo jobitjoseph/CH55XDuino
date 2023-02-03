@@ -32,7 +32,7 @@
                             "packager": "CH55xDuino"
                         }
                     ],
-                    "url": "https://github.com/jobitjoseph/CH55XDuino/releases/download/latest/ch55xduino-core-0.0.16.tar.bz2",
+                    "url": "https://github.com/DeqingSun/ch55xduino/releases/download/0.0.16/ch55xduino-core-0.0.16.tar.bz2",
                     "archiveFileName": "ch55xduino-core-0.0.16.tar.bz2",
                     "checksum": "SHA-256:1d6e2e2f42072d915349d85d2eb30fcea8b98a470a683cbf630817951d385255",
                     "size": "158118"
